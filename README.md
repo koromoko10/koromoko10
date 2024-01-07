@@ -6,7 +6,7 @@
 
 やってるSNSは大体[lit.link](https://lit.link/koromoko10)にまとめてあるんでこれ見てくださいw
 
-##Githubにしか公開してないものあるかもよ
+### Githubにしか公開してないものあるかもよ
 
 |なんとなく|表を  |
 |--|--|
@@ -15,8 +15,7 @@
 
  - [ ] Youtube動画作成する
  - [ ] ゲームをさっさと完成させる
- - [ ] koromoko10 download storeも完成させる
- **何一つできてない定期**
+ - [ ] koromoko10 download storeも完成させる **何一つできてない定期**
  
 
 Credit
