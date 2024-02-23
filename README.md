@@ -193,6 +193,8 @@ graph TD;
     <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png">
 </picture> 
 
+<br>
+>↑ライトモードかダークモードかで画像が変わる。ライトモードはGoogleアイコン、ダークモードは自分の画像
 
  <br> 
 
