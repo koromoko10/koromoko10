@@ -39,6 +39,8 @@ koromoko10はとりあえず**マリオ**が好きだということだけ覚え
  じゃ<br>
   __strong(アンダーバーのほう)__ <br>
    **strong(米印のほう)** <br>
+  これは<sub>下</sub>にある<br>
+  これは<sup>上</sup>にある<br>
 
    ~打ち消し~ 
 
@@ -194,12 +196,23 @@ graph TD;
 </picture> 
 
 <br>
->↑ライトモードかダークモードかで画像が変わる。ライトモードはGoogleアイコン、ダークモードは自分の画像
+>↑ライトモードかダークモードかで画像が変わる。ライトモードはGoogleアイコン、ダークモードは自分の画像<br>
+
+<br>
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
 
  <br> 
 
  # 参考にしたページ
  * https://qiita.com/Qiita/items/c686397e4a0f4f11683d
  * https://qiita.com/Yarakashi_Kikohshi/items/8b1ebfa798a35dec6154
+ * https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes 
 
  
