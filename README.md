@@ -1,6 +1,8 @@
 # koromoko10って誰やねん
 koromoko10はとりあえず**マリオ**が好きだということだけ覚えてたらいいよ。うん。
 <br>
+`クソフト作成者です`
+<br>
 
 やってるSNSは大体[koromoko10リンク集](https://lit.link/koromoko10)にまとめてあるんでこれ見てください
 
