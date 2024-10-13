@@ -172,6 +172,12 @@ graph TD;
 :+1:
 :clap:
 
+<br>
+
+<video src="https://koromoko10.github.io/media/Rick-roll.mp4" controls="true"></video>
+
+<br>
+
  <br> 
 
 > [!NOTE]
