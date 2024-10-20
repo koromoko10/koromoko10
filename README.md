@@ -1,5 +1,5 @@
 # koromoko10って誰やねん
-koromoko10はとりあえず**マリオ**が好きだということだけ覚えてたらいいよ。うん。
+koromoko10はとりあえず**しょーもないアプリ**作る人だということだけ覚えてたらいいよ。うん。
 <br>
 `ゲーム・動画・クソフトクリエイターです`
 <br>
@@ -35,12 +35,11 @@ koromoko10はとりあえず**マリオ**が好きだということだけ覚え
  <!--HTMLじゃぁ-->
  <h1>aaaaa</h1>
 ```
-`なんか短いやつ。インライン表示？`  _italic(アンダーバーを使うやつ)_ 
- *italic(米印使うやつ)* <br><br><br>
+`インライン表示(正式名称わからん)`  _italic(アンダーバー)_ <br>
+<br>
  改行<br>
  じゃ<br>
-  __strong(アンダーバーのほう)__ <br>
-   **strong(米印のほう)** <br>
+   **strong(米印)** <br>
   これは<sub>下</sub>にある<br>
   これは<sup>上</sup>にある<br>
 
@@ -52,61 +51,33 @@ koromoko10はとりあえず**マリオ**が好きだということだけ覚え
 折り畳み内容
 </details>
 
-* リスト1(米印バージョン)
+* リスト1
 * リスト2
   * リスト3
     * リスト4
       * リスト5
 
-+ リスト1(プラスバージョン)
-+ リスト2
-  + リスト3
-    + リスト4
-      + リスト5
-
-- リスト1(マイナスバージョン)
-- リスト2
-  - リスト3
-    - リスト4
-      - リスト5
      
-
  1. 番号付きリスト1
     1. 番号付きリスト1-1
     1. 番号付きリスト1-2
 1. 番号付きリスト2
 1. 番号付きリスト3
 
-<dl>
-  <dt>リス1(htmlバージョン)</dt>
-  <dd>リス2</dd>
-  <dt>リス3</dt>
-  <dd>リス4</dd>
-  <dt>boldとかも使える</dl>
-  <dd><strong>strong</strong><em>italic</em><code>code</code><a href="https://example.com">link</a></dd>
-</dl>
-
 <br>
 
 - [ ] タスク1
 - [x] タスク2
 
+<br>
 
-> 文頭に>を置くことで引用になります。
-> 複数行にまたがる場合、改行のたびにこの記号を置く必要があります。
-> **引用の上下にはリストと同じく空行がないと正しく表示されません**
-> 引用の中に別のMarkdownを使用することも可能です。
-> 
-> > これはネストされた引用です。
+> 引用だぁぁ
+> 複数行もいけまスゥー。
+> > 引用の引用もできる。
 
-* * *
 ***
-*****
-- - -
----------------------------------------
 
-[link](https://example.com "title") <br> 
-[link](https://example.com) <br> 
+[link](https://example.com "title") <br>  
 
 [ここ][link-1] と [この][link-1] リンクは同じになります。
 [link-1] という書き方もできます。
@@ -114,8 +85,6 @@ koromoko10はとりあえず**マリオ**が好きだということだけ覚え
 [link-1]: https://example.com 
 
 ![image](https://avatars.githubusercontent.com/u/136338615?v=4 "title") <br>
-
-![image](https://avatars.githubusercontent.com/u/136338615?v=4) <br> 
 
 <img width="50" src="https://avatars.githubusercontent.com/u/136338615?v=4"> <br> 
 
@@ -130,30 +99,6 @@ koromoko10はとりあえず**マリオ**が好きだということだけ覚え
 | \|         |             |              |
 
 
- <br> 
-
-<table>
-  <caption>HTMLの要素</caption>
-  <thead>
-    <tr>
-      <th>名前</th> <th>説明</th>
-    </tr>
-  </thead>
-  <tr>
-    <td> table </td> <td>テーブル</td>
-  </tr>
-  <tr>
-    <td> caption </td> <td>テーブルのキャプション</td>
-  </tr>
-</table>
-
-
- <br> 
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
-\left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-```
 
  <br> 
 
@@ -167,18 +112,9 @@ graph TD;
  <br> 
 
 :shipit:
-:sparkles:
-:-1:
-:+1:
-:clap:
 
-<br>
 
-<video src="https://koromoko10.github.io/media/Rick-roll.mp4" controls="true"></video>
-
-<br>
-
- <br> 
+<br> 
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
