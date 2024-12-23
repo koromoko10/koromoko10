@@ -14,17 +14,9 @@ koromoko10はとりあえず**しょーもないアプリ**作る人だという
 
 ### Githubにしか公開してないものあるかもよ
 
-|なんとなく|表を  |
-|--|--|
-| 作りたくなった |aaa  |
-|bbbbb|cccc|
-
- - [ ] Youtube動画作成する
- - [ ] ゲームをさっさと完成させる
- - [ ] koromoko10 download storeも完成させる **何一つできてない定期**
  
 
-# ここから下はマークダウンのテストしてるだけ(自分が確認する用) 
+# マークダウンチートシート（自分用） 
 # H1
 ## H2
 ### H3
@@ -45,9 +37,7 @@ koromoko10はとりあえず**しょーもないアプリ**作る人だという
 
    ~打ち消し~ 
 
-   <details><summary>折り畳みタイトル</summary>
-
-
+<details><summary>折り畳みタイトル</summary>
 折り畳み内容
 </details>
 
@@ -80,7 +70,6 @@ koromoko10はとりあえず**しょーもないアプリ**作る人だという
 [link](https://example.com "title") <br>  
 
 [ここ][link-1] と [この][link-1] リンクは同じになります。
-[link-1] という書き方もできます。
 
 [link-1]: https://example.com 
 
@@ -98,20 +87,6 @@ koromoko10はとりあえず**しょーもないアプリ**作る人だという
 | aligned    | aligned     | aligned      |
 | \|         |             |              |
 
-
-
- <br> 
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
- <br> 
-
-:shipit:
 
 
 <br> 
@@ -132,17 +107,7 @@ graph TD;
 > Negative potential consequences of an action.
 
 
- <br> 
-
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/136338615?v=4">
-    <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png">
-</picture> 
-
-<br>
->↑ライトモードかダークモードかで画像が変わる。ライトモードはGoogleアイコン、ダークモードは自分の画像<br>
-
-<br>
+<br> 
 
 Here is a simple footnote[^1].
 
