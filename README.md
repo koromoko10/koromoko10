@@ -4,6 +4,8 @@ koromoko10はとりあえず**しょーもないアプリ**作る人だという
 `ゲーム・動画・クソフトクリエイターです`
 <br>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koromoko10&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koromoko10&layout=compact&theme=radical)  
+
 やってるSNSは大体[koromoko10リンク集](https://lit.link/koromoko10)にまとめてあるんでこれ見てください
 
 >埋め込みコード
